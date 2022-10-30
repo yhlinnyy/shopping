@@ -1,0 +1,140 @@
+.w {
+    width: 1200px;
+    margin: auto;
+}
+
+header {
+    height: 84px;
+    border-bottom: 2px solid red;
+    padding-top: 18px;
+}
+
+.registerarea {
+    height: 522px;
+    border: 1px solid #999;
+    margin-top: 20px;
+}
+
+.registerarea h3 {
+    height: 42px;
+    border-bottom: 1px solid #999;
+    background-color: #f3f3f3;
+    padding: 0 10px;
+    line-height: 42px;
+    font-size: 18px;
+    font-weight: 400;
+}
+
+.registerarea p {
+    float: right;
+    font-size: 14px;
+}
+
+.registerarea p a {
+    color: red;
+}
+
+.reg_form {
+    width: 600px;
+    margin: 50px auto 0;
+}
+
+.reg_form ul li label {
+    display: inline-block;
+    width: 88px;
+    text-align: right;
+
+}
+
+.reg_form ul li {
+    margin-bottom: 20px;
+}
+
+.reg_form ul li .inp {
+    width: 242px;
+    height: 37px;
+    border: 1px solid #ccc;
+}
+
+.reg_form .error {
+    color: red;
+}
+
+.reg_form .error_icon {
+    display: inline-block;
+    vertical-align: middle;
+    width: 20px;
+    height: 20px;
+    background: url(../images/error.jpg);
+    margin-top: -2px;
+    margin-left: 10px;
+}
+
+.reg_form .success {
+    color: green;
+}
+
+.reg_form .success_icon {
+    display: inline-block;
+    vertical-align: middle;
+    width: 20px;
+    height: 20px;
+    background: url(../images/error.jpg);
+    margin-top: -2px;
+    margin-left: 10px;
+}
+
+.safe em {
+    padding: 0 12px;
+    color: #fff;
+}
+
+.safe {
+    margin-left: 155px;
+}
+
+.ruo {
+    background-color: #999;
+}
+
+.zhong {
+    background-color: orange;
+}
+
+.qiang {
+    background-color: rebeccapurple;
+}
+
+.agree {
+    padding-left: 100px;
+}
+
+.agree input {
+    vertical-align: middle;
+}
+
+.agree a {
+    color: #1ba1e6;
+}
+
+.btn {
+    width: 200px;
+    height: 34px;
+    background-color: red;
+    font-size: 14px;
+    color: #fff;
+    margin: 30px 0 0 70px;
+}
+
+.mod_copyright {
+    margin: 15px 110px 0;
+    text-align: center;
+}
+
+.mod_copyright .links {
+    margin-bottom: 20px;
+}
+
+.mod_copyright .links a {
+    margin: 0 2px;
+}
